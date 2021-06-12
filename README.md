@@ -1,4 +1,4 @@
-# Blackjack
+# Blackjack (**WIP**)
 
 The aim of this project is to learn about the rules of blackjack and how rules in card games can be applied in code. This is also my first time doing a GitHub repo😅.
 
