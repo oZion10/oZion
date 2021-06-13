@@ -1,4 +1,4 @@
-# Blackjack (**WIP**)
+# Blackjack
 
 The aim of this project is to learn about the rules of blackjack and how rules in card games can be applied in code, using only the modules Python has to offer by default. 
 
